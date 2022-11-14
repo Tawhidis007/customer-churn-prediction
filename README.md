@@ -5,5 +5,5 @@ In this project, the dataset I have analysed contains information about customer
 
 At the end of this project, I was able to come up with some key findings and suggestions, which the bank could use to improve their customer retention. In addition, the findings could help them understand their customers better.
 
-Skills demonstrated: Exploratory Data Analysis, Visualisation, Data Preprocessing (Feature Selection, Feature Encoding, Feature Scaling), Dealing with Class Imbalance using SMOTE, and Model Tuning.
+Skills demonstrated: Exploratory Data Analysis, Visualisation, Data Preprocessing (Feature Selection, Feature Encoding, Feature Scaling), Dealing with Class Imbalance using SMOTE, and Model Tuning.<br>
 ML models used: Logistic Regression, Support Vector Machines, Random Forests, Gradient Boosting, and XGBoost.
