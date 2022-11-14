@@ -1,5 +1,5 @@
 # customer-churn-prediction
-Using data analysis and machine learning to predict whether a customer churns or not.
+Data analysis and machine learning to predict and understand whether a customer will churn or not.
 
 In this project, the dataset I have analysed contains information about customers of a bank. I started off with EDA (Exploratory Data Analysis) to visualize and extract key information that influence customers to churn. Then I delved into building Machine Learning models to try and predict whether a customer would churn or not. This is a classification problem, and for evaluating the models and optising them, the performance metric I used is Recall. Comparisons using the other metrics have been showed as well. I have chosen Recall since its more important for banks to correctly identify the positive class (true churn).
 
