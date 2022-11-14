@@ -8,4 +8,4 @@ At the end of this project, I was able to come up with some key findings and sug
 Skills demonstrated: Exploratory Data Analysis, Visualisation, Data Preprocessing (Feature Selection, Feature Encoding, Feature Scaling), Dealing with Class Imbalance using SMOTE, and Model Tuning.<br>
 ML models used: Logistic Regression, Support Vector Machines, Random Forests, Gradient Boosting, and XGBoost.
 
-<img src="metrics.png" alt="Alt text" title="ot">
+<img src="pi.png" alt="Alt text" title="ot">
